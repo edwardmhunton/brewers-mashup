@@ -1,5 +1,6 @@
 # A breweries mash-up / New York State
 
+- to install deps run 'npm install'
 - to test run 'npm test'
 - to build run 'npm run build'
 - to start run 'npm run dev'
